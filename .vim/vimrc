@@ -1,0 +1,36 @@
+set nocompatible
+filetype off
+
+set rtp+=$HOME/.vim/bundle/Vundle.vim
+
+call vundle#begin()
+
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'tomtom/tcomment_vim'
+
+
+
+call vundle#end()
+filetype plugin indent on
+
+
+syntax on
+set mouse=a
+set clipboard=unnamed
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set expandtab
+
+colorscheme default
+set number
+
+set ai
+set si
+set wrap
+
+let g:indent_guides_guide_size = 1
+let g:indent_guides_color_change_percent = 3
+let g:indent_guides_enable_on_vim_startup = 1
+
+

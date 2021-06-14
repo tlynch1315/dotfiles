@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/afs/nd.edu/user26/tlynch2/cse20311/lab8/Life'
+let g:netrw_dirhist_2='/afs/nd.edu/coursefa.16/cse/cse20311.01/Book/ch01'
+let g:netrw_dirhist_3='/afs/nd.edu/coursefa.16/cse/cse20311.01/Book/ch11'
+let g:netrw_dirhist_4='/afs/nd.edu/coursefa.16/cse/cse20311.01/Book/ch11/fig11_10_11'
+let g:netrw_dirhist_5='/afs/nd.edu/user26/tlynch2/.ssh'
+let g:netrw_dirhist_6='/afs/nd.edu/user26/tlynch2/.config'
+let g:netrw_dirhist_7='/afs/nd.edu/user26/tlynch2/cse20311/lab6'
+let g:netrw_dirhist_8='/afs/nd.edu/user26/tlynch2/cse20289/cse-20289-sp17-assignments/homework02'
